@@ -1,0 +1,12 @@
+[
+  { "firebase-debug.log": "dosya" },
+  {
+    "functions": [
+      { ".gitignore": "dosya" },
+      { "package.json": "dosya" },
+      { "src": [{ "index.ts": "dosya" }] },
+      { "tsconfig.json": "dosya" },
+      { "tslint.json": "dosya" }
+    ]
+  }
+]
