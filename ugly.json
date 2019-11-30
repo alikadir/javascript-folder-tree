@@ -1,0 +1,58 @@
+[
+  {
+    "name": "dist",
+    "isDirectory": true,
+    "children": [
+      {
+        "name": "kelime",
+        "isDirectory": true,
+        "children": [
+          { "name": "favicon.ico", "isDirectory": false, "children": [] },
+          { "name": "index.html", "isDirectory": false, "children": [] },
+          { "name": "main.js", "isDirectory": false, "children": [] },
+          { "name": "main.js.map", "isDirectory": false, "children": [] },
+          { "name": "polyfills.js", "isDirectory": false, "children": [] },
+          { "name": "polyfills.js.map", "isDirectory": false, "children": [] },
+          { "name": "runtime.js", "isDirectory": false, "children": [] },
+          { "name": "runtime.js.map", "isDirectory": false, "children": [] },
+          { "name": "styles.js", "isDirectory": false, "children": [] },
+          { "name": "styles.js.map", "isDirectory": false, "children": [] },
+          { "name": "vendor.js", "isDirectory": false, "children": [] },
+          { "name": "vendor.js.map", "isDirectory": false, "children": [] }
+        ]
+      },
+      {
+        "name": "kelime-server",
+        "isDirectory": true,
+        "children": [
+          { "name": "main.js", "isDirectory": false, "children": [] },
+          { "name": "main.js.map", "isDirectory": false, "children": [] }
+        ]
+      },
+      { "name": "kelime-webpack", "isDirectory": true, "children": [{ "name": "server.js", "isDirectory": false, "children": [] }] }
+    ]
+  },
+  { "name": "firebase-debug.log", "isDirectory": false, "children": [] },
+  {
+    "name": "functions",
+    "isDirectory": true,
+    "children": [
+      { "name": ".gitignore", "isDirectory": false, "children": [] },
+      {
+        "name": "amdefine",
+        "isDirectory": true,
+        "children": [
+          { "name": "LICENSE", "isDirectory": false, "children": [] },
+          { "name": "README.md", "isDirectory": false, "children": [] },
+          { "name": "amdefine.js", "isDirectory": false, "children": [] },
+          { "name": "intercept.js", "isDirectory": false, "children": [] },
+          { "name": "package.json", "isDirectory": false, "children": [] }
+        ]
+      },
+      { "name": "package.json", "isDirectory": false, "children": [] },
+      { "name": "src", "isDirectory": true, "children": [{ "name": "index.ts", "isDirectory": false, "children": [] }] },
+      { "name": "tsconfig.json", "isDirectory": false, "children": [] },
+      { "name": "tslint.json", "isDirectory": false, "children": [] }
+    ]
+  }
+]
